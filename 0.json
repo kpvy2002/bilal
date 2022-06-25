@@ -1,0 +1,36 @@
+{
+    "name": "Meta Snakes ",
+    "description": "Community building on #solana.",
+    "image": "0.png",
+    "dna": "8d300f2dd5018562e8e49db61454c957921b3083",
+    "date": 1644147913954,
+    "symbol": "OTBN",
+    "properties": {
+        "files":[
+            {
+                "uri":"0.png",
+                "type": "image/png"
+            }
+        ],
+
+    "category": "image",
+    "creators": [
+        {
+            "address": "newXSoq5Uah8GpBVLswy2sBBG6recrRQyS57ThD79v5",
+            "share": 100
+        }
+        
+    ]
+ },
+    "collection": {
+        "name": "Meta Snakes",
+        "family": "Meta Snakes"
+    },
+    "attributes": [
+        {
+            "trait_type": "Hidden",
+            "value": "Yes"
+        }],
+
+    "seller_fee_basis_points": "500"
+}
